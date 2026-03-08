@@ -1,1 +1,1 @@
-Get-ComputerInfo
+R2V0LUNvbXB1dGVySW5mbw==
